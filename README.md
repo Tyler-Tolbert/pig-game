@@ -1,0 +1,3 @@
+Pig Game Project
+
+The Pig Game is a simple dice game that can be played with two players. The object of the game is to be the first player to reach a certain number of points, typically 100. Each turn, a player rolls a single die and can choose to either "hold" (keep their current score for the turn) or "roll" again. If they roll a 1, they lose all the points they have accumulated for that turn and it becomes the next player's turn. The game ends when a player reaches 100 points. 
